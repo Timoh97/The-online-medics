@@ -1,3 +1,4 @@
+@media all and (max-width:700px){
 body {
     background-image: url(https://cdn.hipwallpaper.com/m/15/72/wgMLUS.jpg);
     background-repeat: no-repeat;
@@ -90,4 +91,5 @@ main {
 }
 #foot-last {
     list-style-type: none;
+}
 }
