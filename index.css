@@ -1,0 +1,93 @@
+body {
+    background-image: url(https://cdn.hipwallpaper.com/m/15/72/wgMLUS.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav {
+    padding-top: 2rem;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    position: static;
+}
+#pic1 {
+    clip-path: circle();
+}
+#pic2 {
+    clip-path: circle();
+}
+
+#pic3 {
+clip-path: circle();
+}
+
+#pic4 {
+    clip-path: circle();
+    }
+
+#pic5 {
+        clip-path: circle();
+        }
+
+.friends {
+    clip-path: circle();
+}
+.friend {
+display: flex;
+flex-direction: row;
+padding: 30px;
+height: 200px;
+width: 800px;
+
+}
+footer {  display: flex;
+    flex-direction: column;
+    
+}
+.imag {
+    display: flex;
+    justify-content: space-around;
+}
+#premises {
+    text-align: center;
+}
+#imaging {
+    background-image: url(./pictures/background\ image.jpg);
+    padding-bottom: 2.5rem;
+}
+
+.foot {
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem;
+}
+div>marquee {
+    color: rgb(94, 13, 13);
+    font-size: xx-large;
+}
+h2 {
+    text-align: center;
+    color: rgb(94, 13, 13);
+    font-size: xx-large;
+}
+article>p{
+    text-align: center;
+}
+main {
+    text-align: center;
+    font-size: x-large;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#div1>p {
+    padding: 2em;
+}
+
+#div3>P { 
+    padding: 3em;
+}
+#foot-last {
+    list-style-type: none;
+}
