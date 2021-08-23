@@ -1,0 +1,27 @@
+body {
+    background-image: url(./pictures/corridor\ background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+footer {  display: flex;
+    flex-direction: column;
+    
+}
+.foot {
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem;
+}
+#foot-last {
+    list-style-type: none;
+}
